@@ -1,0 +1,9 @@
+.vs/
+
+bin/
+obj/
+
+net-blocker.sln
+net-blocker.vcxproj
+net-blocker.vcxproj.filters
+net-blocker.vcxproj.user
